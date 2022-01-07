@@ -8,7 +8,7 @@
 6) [«Паттерны поддержания консистентности данных (Stream processing)»](./hw06_stream_processing)
 7) [«Идемпотетность и коммутативность API в HTTP и очередях»](./hw07_order_service)
 
-[«Проектная работа»](./final_project)
+[«Проектная работа»](./hw08_final_project)
 
 ---
 
