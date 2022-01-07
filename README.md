@@ -8,6 +8,8 @@
 6) [«Паттерны поддержания консистентности данных (Stream processing)»](./hw06_stream_processing)
 7) [«Идемпотетность и коммутативность API в HTTP и очередях»](./hw07_order_service)
 
+---
+
 [«Проектная работа»](./hw08_final_project)
 
 ---
@@ -24,6 +26,7 @@
 - **helmfile version**:  v0.130.1
 - **newman version**:  v5.3.0
 - **golangci-lint**:  v1.43.0
+- **go version**:  go1.17.3 linux/amd64
 - **Docker Client**:
     - Docker Engine - Community;
     - Version:           20.10.9;
