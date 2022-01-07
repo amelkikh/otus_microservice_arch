@@ -7,10 +7,7 @@
 5) [«Backend for frontends. Apigateway»](./hw05_api_gateway)
 6) [«Паттерны поддержания консистентности данных (Stream processing)»](./hw06_stream_processing)
 7) [«Идемпотетность и коммутативность API в HTTP и очередях»](./hw07_order_service)
-
----
-
-[«Проектная работа»](./hw08_final_project)
+8) [«Проектная работа»](./hw08_final_project)
 
 ---
 
@@ -45,4 +42,4 @@
 
 ### TODO
 
-- [x] Makefile to facilitate CI/CD operations
+- [ ] Makefile to facilitate CI/CD operations
