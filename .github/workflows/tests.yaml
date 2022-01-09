@@ -4,8 +4,6 @@ on:
   push:
     branches:
       - hw*
-      - final*
-  pull_request:
 
 env:
   GO111MODULE: "on"
