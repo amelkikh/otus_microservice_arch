@@ -1,13 +1,15 @@
 ## Домашние задания курса [OTUS «Microservice Architecture»](https://otus.ru/lessons/microservice-architecture/)
 
-1) [«Основы работы с Kubernetes. Часть 1»](./hw01_k8s_basics_part1)
-2) [«Основы работы с Kubernetes. Часть 2»](./hw01_k8s_basics_part2)
+1) [«Основы работы с Kubernetes»](./hw01_k8s_basics)
+2) [«Инфраструктурные паттерны»](./hw02_infra_patterns)
 3) [«Prometheus. Grafana»](./hw03_prometheus_grafana)
 4) [«Service mesh на примере Istio»](./hw04_service_mesh_istio)
 5) [«Backend for frontends. Apigateway»](./hw05_api_gateway)
-6) [«Паттерны поддержания консистентности данных (Stream processing)»](./hw06_stream_processing)
-7) [«Идемпотетность и коммутативность API в HTTP и очередях»](./hw07_order_service)
-8) [«Проектная работа»](./hw08_final_project)
+6) [«Проектная работа»](./hw06_final_project)
+7) [«Паттерны поддержания консистентности данных (Stream processing)»](./hw07_stream_processing)
+8) [«Идемпотетность и коммутативность API в HTTP и очередях»](./hw08_order_service)
+9) [«Паттерны декомпозиции микросервисов»](./hw09_decomposition_patterns)
+10) [«Распределенные транзакции»](./hw10_distributed_transactions)
 
 ---
 
