@@ -1,3 +1,5 @@
+[![CodeQL](https://github.com/amelkikh/otus_microservice_arch/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/amelkikh/otus_microservice_arch/actions/workflows/codeql-analysis.yml)
+
 ## Домашние задания курса [OTUS «Microservice Architecture»](https://otus.ru/lessons/microservice-architecture/)
 
 1) [«Основы работы с Kubernetes»](./hw01_k8s_basics)
