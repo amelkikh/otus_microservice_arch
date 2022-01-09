@@ -1,0 +1,6 @@
+---
+releases:
+  - name: k8s-basics-part1
+    namespace: otus-amelkikh
+    cleanupOnFail: true
+    chart: ./charts/k8s-basics-part1

@@ -1,0 +1,47 @@
+{
+	"info": {
+		"_postman_id": "b87ce179-ce0b-4708-ab46-bc76bfb6b838",
+		"name": "otus_k8s_basics",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "Check health",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "arch.homework/health",
+					"host": [
+						"arch",
+						"homework"
+					],
+					"path": [
+						"health"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Otus student rewrite url",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "arch.homework/otusapp/student_name/test",
+					"host": [
+						"arch",
+						"homework"
+					],
+					"path": [
+						"otusapp",
+						"student_name",
+						"test"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
